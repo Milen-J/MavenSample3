@@ -12,7 +12,7 @@ public class Class1 {
 			n=n/10;
 		}
 		if (temp==sum)
-			System.out.println("palindrome number");
+			System.out.println("palinndrome number");
 		else
 			System.out.println("not palindrome");
 		}
