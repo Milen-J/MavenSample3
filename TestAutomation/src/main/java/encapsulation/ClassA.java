@@ -1,6 +1,6 @@
 package encapsulation;
 
-public class Class1 {
+public class ClassA {
 	private int a;
 	private String s;
 	public void getter()
