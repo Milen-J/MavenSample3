@@ -18,7 +18,7 @@ public class Aggregation12 {
 			System.out.println(sd.pin+" "+sd.house);
 			System.out.println(house=" "+pin);
 		}
-		public static void main(String[] args)
+		public static void main(String[]  args)
 		{
 			Aggregation1 obj =new Aggregation1("Sree",10);
 			Aggregation12 a =new Aggregation12("Sree",12,obj);
